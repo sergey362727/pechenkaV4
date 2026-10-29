@@ -1,0 +1,128 @@
+{
+  "version": "4.2.1",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "upp",
+      "score": 0.9566045999526978,
+      "points": [
+        [
+          374.14788818359375,
+          552.368408203125
+        ],
+        [
+          702.2075805664062,
+          552.368408203125
+        ],
+        [
+          702.2075805664062,
+          936.652587890625
+        ],
+        [
+          374.14788818359375,
+          936.652587890625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "game",
+      "score": 0.9528523683547974,
+      "points": [
+        [
+          1922.710205078125,
+          793.43408203125
+        ],
+        [
+          2171.211181640625,
+          793.43408203125
+        ],
+        [
+          2171.211181640625,
+          1024.28759765625
+        ],
+        [
+          1922.710205078125,
+          1024.28759765625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "upp",
+      "score": 0.6043009757995605,
+      "points": [
+        [
+          63.607666015625,
+          514.2991943359375
+        ],
+        [
+          369.19775390625,
+          514.2991943359375
+        ],
+        [
+          369.19775390625,
+          871.1390380859375
+        ],
+        [
+          63.607666015625,
+          871.1390380859375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "upp",
+      "score": 0.4135211110115051,
+      "points": [
+        [
+          72.93679809570312,
+          1003.83056640625
+        ],
+        [
+          372.87762451171875,
+          1003.83056640625
+        ],
+        [
+          372.87762451171875,
+          1294.59716796875
+        ],
+        [
+          72.93679809570312,
+          1294.59716796875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "screenshot_2026-10-26_11-35-36_aug0_7.jpg",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

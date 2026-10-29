@@ -1,0 +1,100 @@
+{
+  "version": "4.2.1",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "review_status": "pending",
+      "label": "rrr",
+      "score": null,
+      "points": [
+        [
+          1723.6046511627908,
+          349.0697674418605
+        ],
+        [
+          2030.5813953488373,
+          349.0697674418605
+        ],
+        [
+          2030.5813953488373,
+          639.7674418604652
+        ],
+        [
+          1723.6046511627908,
+          639.7674418604652
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "game",
+      "score": 0.9148740768432617,
+      "points": [
+        [
+          160.4724884033203,
+          570.637939453125
+        ],
+        [
+          407.19708251953125,
+          570.637939453125
+        ],
+        [
+          407.19708251953125,
+          808.362548828125
+        ],
+        [
+          160.4724884033203,
+          808.362548828125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "upp",
+      "score": 0.9026190638542175,
+      "points": [
+        [
+          1696.28076171875,
+          254.962646484375
+        ],
+        [
+          2048.34716796875,
+          254.962646484375
+        ],
+        [
+          2048.34716796875,
+          635.3172607421875
+        ],
+        [
+          1696.28076171875,
+          635.3172607421875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "screenshot_2026-10-26_11-35-57_aug0_15.jpg",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

@@ -1,0 +1,100 @@
+{
+  "version": "4.2.1",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "review_status": "pending",
+      "label": "upp",
+      "score": null,
+      "points": [
+        [
+          7.626262626262644,
+          156.86868686868686
+        ],
+        [
+          112.6767676767677,
+          156.86868686868686
+        ],
+        [
+          112.6767676767677,
+          265.45454545454544
+        ],
+        [
+          7.626262626262644,
+          265.45454545454544
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "upp",
+      "score": 0.7772156596183777,
+      "points": [
+        [
+          4.622932434082031,
+          139.09814453125
+        ],
+        [
+          112.87259674072266,
+          139.09814453125
+        ],
+        [
+          112.87259674072266,
+          271.663330078125
+        ],
+        [
+          4.622932434082031,
+          271.663330078125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "game",
+      "score": 0.4960204064846039,
+      "points": [
+        [
+          600.5462036132812,
+          244.6961669921875
+        ],
+        [
+          639.9938354492188,
+          244.6961669921875
+        ],
+        [
+          639.9938354492188,
+          346.013427734375
+        ],
+        [
+          600.5462036132812,
+          346.013427734375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "screenshot_2026-10-26_11-35-51_aug3_29.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640,
+  "description": ""
+}

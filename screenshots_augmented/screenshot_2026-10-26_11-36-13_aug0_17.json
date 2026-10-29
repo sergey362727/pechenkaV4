@@ -1,0 +1,99 @@
+{
+  "version": "4.2.1",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "game",
+      "score": 0.9496767520904541,
+      "points": [
+        [
+          324.04278564453125,
+          0.1657867431640625
+        ],
+        [
+          431.7103271484375,
+          0.1657867431640625
+        ],
+        [
+          431.7103271484375,
+          45.12102508544922
+        ],
+        [
+          324.04278564453125,
+          45.12102508544922
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "upp",
+      "score": 0.5507424473762512,
+      "points": [
+        [
+          355.52203369140625,
+          463.07147216796875
+        ],
+        [
+          496.11798095703125,
+          463.07147216796875
+        ],
+        [
+          496.11798095703125,
+          560.2970581054688
+        ],
+        [
+          355.52203369140625,
+          560.2970581054688
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "upp",
+      "score": 0.40063774585723877,
+      "points": [
+        [
+          206.86163330078125,
+          564.4864501953125
+        ],
+        [
+          330.22406005859375,
+          564.4864501953125
+        ],
+        [
+          330.22406005859375,
+          639.5206298828125
+        ],
+        [
+          206.86163330078125,
+          639.5206298828125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "screenshot_2026-10-26_11-36-13_aug0_17.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640,
+  "description": ""
+}

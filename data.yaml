@@ -1,0 +1,10 @@
+path: dataset_yolo
+train: images/train
+val: images/val
+
+names:
+  0: game
+  1: upp
+  2: upp1
+  3: upp2
+  4: add

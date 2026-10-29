@@ -1,0 +1,99 @@
+{
+  "version": "4.2.1",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "game",
+      "score": 0.9550771713256836,
+      "points": [
+        [
+          597.114013671875,
+          399.7006530761719
+        ],
+        [
+          886.877685546875,
+          399.7006530761719
+        ],
+        [
+          886.877685546875,
+          703.7841796875
+        ],
+        [
+          597.114013671875,
+          703.7841796875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "game",
+      "score": 0.9550771713256836,
+      "points": [
+        [
+          597.114013671875,
+          399.7006530761719
+        ],
+        [
+          886.877685546875,
+          399.7006530761719
+        ],
+        [
+          886.877685546875,
+          703.7841796875
+        ],
+        [
+          597.114013671875,
+          703.7841796875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "upp",
+      "score": 0.4684702754020691,
+      "points": [
+        [
+          454.9073486328125,
+          2107.0693359375
+        ],
+        [
+          832.5867919921875,
+          2107.0693359375
+        ],
+        [
+          832.5867919921875,
+          2508.00927734375
+        ],
+        [
+          454.9073486328125,
+          2508.00927734375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "screenshot_2026-10-26_11-32-45_aug3_62.jpg",
+  "imageData": null,
+  "imageHeight": 2560,
+  "imageWidth": 1440,
+  "description": ""
+}
