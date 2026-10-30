@@ -1,10 +1,26 @@
-# Python-generated files
+# Игнорируем кэш Python и виртуальные окружения
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-X-AnyLabeling
-# Virtual environments
-.venv
+*.pyc
+.venv/
+venv/
+.python-version
+.idea/
+.vscode/
+
+# Игнорируем исходные датасеты и разметку (Требование №1: "без датасета")
+dataset_yolo/
+labels/
+screenshots/
+screenshots_augmented/
+X-AnyLabeling/
+data.yaml
+config.yaml
+class.txt
+
+# Игнорируем тяжелые базовые веса
+yolov8n.pt
+
+# Разрешаем загрузку только лучшего результата (Требование №1: "только лучший результат в runs")
+# Игнорируем все .pt и .onnx файлы в корне, ЕСЛИ вы перенесли их в runs
+# Если bestV1.onnx должен лежать в корне для app.py, закомментируйте строчку ниже символом #
+bestV1.pt
