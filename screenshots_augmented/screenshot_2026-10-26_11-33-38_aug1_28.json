@@ -1,0 +1,99 @@
+{
+  "version": "4.2.1",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "game",
+      "score": 0.9796149730682373,
+      "points": [
+        [
+          272.1056213378906,
+          9.576492309570312
+        ],
+        [
+          379.0765075683594,
+          9.576492309570312
+        ],
+        [
+          379.0765075683594,
+          87.93621826171875
+        ],
+        [
+          272.1056213378906,
+          87.93621826171875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "upp",
+      "score": 0.6025363802909851,
+      "points": [
+        [
+          308.9013366699219,
+          506.465087890625
+        ],
+        [
+          451.7185974121094,
+          506.465087890625
+        ],
+        [
+          451.7185974121094,
+          606.5858154296875
+        ],
+        [
+          308.9013366699219,
+          606.5858154296875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "upp",
+      "score": 0.30375438928604126,
+      "points": [
+        [
+          43.290252685546875,
+          610.1142578125
+        ],
+        [
+          176.81671142578125,
+          610.1142578125
+        ],
+        [
+          176.81671142578125,
+          639.927734375
+        ],
+        [
+          43.290252685546875,
+          639.927734375
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "screenshot_2026-10-26_11-33-38_aug1_28.jpg",
+  "imageData": null,
+  "imageHeight": 640,
+  "imageWidth": 640,
+  "description": ""
+}

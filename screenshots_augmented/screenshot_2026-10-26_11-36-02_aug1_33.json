@@ -1,0 +1,99 @@
+{
+  "version": "4.2.1",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "game",
+      "score": 0.9580689072608948,
+      "points": [
+        [
+          203.15164184570312,
+          715.734130859375
+        ],
+        [
+          462.7149353027344,
+          715.734130859375
+        ],
+        [
+          462.7149353027344,
+          957.376220703125
+        ],
+        [
+          203.15164184570312,
+          957.376220703125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "upp",
+      "score": 0.8063602447509766,
+      "points": [
+        [
+          1685.48193359375,
+          821.69921875
+        ],
+        [
+          2022.56201171875,
+          821.69921875
+        ],
+        [
+          2022.56201171875,
+          1231.57861328125
+        ],
+        [
+          1685.48193359375,
+          1231.57861328125
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "upp",
+      "score": 0.2608376741409302,
+      "points": [
+        [
+          896.7889404296875,
+          227.2904052734375
+        ],
+        [
+          1177.9759521484375,
+          227.2904052734375
+        ],
+        [
+          1177.9759521484375,
+          630.3638916015625
+        ],
+        [
+          896.7889404296875,
+          630.3638916015625
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "screenshot_2026-10-26_11-36-02_aug1_33.jpg",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

@@ -1,0 +1,70 @@
+{
+  "version": "4.2.1",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "upp",
+      "score": 0.9522026181221008,
+      "points": [
+        [
+          350.5394287109375,
+          2183.22509765625
+        ],
+        [
+          786.4322509765625,
+          2183.22509765625
+        ],
+        [
+          786.4322509765625,
+          2487.4248046875
+        ],
+        [
+          350.5394287109375,
+          2487.4248046875
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "game",
+      "score": 0.9465829133987427,
+      "points": [
+        [
+          380.134765625,
+          659.1370239257812
+        ],
+        [
+          642.11865234375,
+          659.1370239257812
+        ],
+        [
+          642.11865234375,
+          893.5116577148438
+        ],
+        [
+          380.134765625,
+          893.5116577148438
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "screenshot_2026-10-26_11-34-42_aug3_9.jpg",
+  "imageData": null,
+  "imageHeight": 2560,
+  "imageWidth": 1440,
+  "description": ""
+}
